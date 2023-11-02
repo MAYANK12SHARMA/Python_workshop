@@ -1,0 +1,8 @@
+name  = input("Enter the name: ")
+course  = input("Enter the course: ")
+DOB = input("Enter the DOB: ")
+validity  = input("Enter the validity : ")
+print("\nNAME : ", name)
+print("COURSE : ", course)
+print("Date of Birth: ", DOB)
+print("Validity : ", validity)
